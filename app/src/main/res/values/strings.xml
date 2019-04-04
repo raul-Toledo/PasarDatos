@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasarDatos</string>
+    <string name="strTitulo">Your Name</string>
+    <string name="hintNombre">Escribe tu nombre</string>
+    <string name="strOk">OK</string>
+    <string name="strNombre">Hola:</string>
+    <string name="strUser">Usuario:</string>
+    <string name="strPass">Password:</string>
+</resources>
